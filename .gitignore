@@ -1,4 +1,5 @@
 ## IntelliJ
+bin/
 out/
 .idea/
 .idea_modules/
